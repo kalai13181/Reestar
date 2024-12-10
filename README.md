@@ -6,4 +6,4 @@ This is a simple and elegant restaurant website built using basic HTML and CSS. 
   --Contact information for reservations or inquiries.
 This project demonstrates the fundamentals of web development with a focus on simplicity and functionality. Perfect for small businesses looking for an online presence.
 
-View the live site here :
+View the live site here : https://kalai13181.github.io/Reestar/
